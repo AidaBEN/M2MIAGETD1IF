@@ -17,3 +17,5 @@ spring:
     url: jdbc:postgresql://horton.db.elephantsql.com:5432/ivesqgns
     username: ivesqgns
     password: 1WDmIDted1X6Z7j9xiCh9utrtPHDzZyw
+
+    
